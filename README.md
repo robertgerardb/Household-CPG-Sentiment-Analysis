@@ -6,11 +6,10 @@
 [2.0 Orientation](#20-orientation)<br>
 [3.0 Software APIs Libraries Used](#30-software-apis-libraries-used)<br>
 [4.0 Data Dictionary](#40-data-dictionary)<br>
-[5.0 High Level Overview of Findings](#50-high-level-overview-of-findings)<br>
-[6.0 Minimum Viable Product for Web Application](#60-minimum-viable-product-for-web-application)<br>
-[7.0 Next Steps and Recommendations](#70-next-steps-and-recommendations)<br>
-[8.0 Sources and Citations](#80-sources-and-citations)<br>
-[9.0 Contact Info](#90-contact-info)<br>
+[5.0 Overview of Findings](#50-high-level-overview-of-findings)<br>
+[6.0 Next Steps and Recommendations](#60-next-steps-and-recommendations)<br>
+[7.0 Sources and Acknowledgements](#70-sources-and-acknowledgements)<br>
+[8.0 Contact Info](#80-contact-info)<br>
 
 ---
 ## 1.0 Directory Structure
@@ -108,21 +107,27 @@ vaderSentiment
 ![](./visuals/00_slides/Slide23.PNG)
 ![](./visuals/00_slides/Slide24.PNG)
 ![](./visuals/00_slides/Slide25.PNG)
-![](./visuals/00_slides/Slide26.PNG)
 
 ## 5.5 Brand and Consumer Sentiment Analysis
 ![](./visuals/00_slides/Slide27.PNG)
-![](./visuals/00_slides/Slide28.PNG)
 ![](./visuals/00_slides/Slide29.PNG)
 ![](./visuals/00_slides/Slide30.PNG)
 
 ## 6.0 Next Steps and Recommendations
-![](./visuals/00_slides/Slide31.PNG)
+![](./visuals/00_slides/Slide32.PNG)
 
-## 7.0 Sources and Acknowldgements
-1. <a href="https://www.zillow.com/research/data/">Zillow Median Sale Price by Zip (CSV)</a>
+## 7.0 Sources and Acknowledgements
+1. <a href="https://sproutsocial.com/insights/twitter-mentions/">Social Media Metrics</a>
 
-2. <a href="https://www.zillow.com/browse/homes/tx/harris-county/">Zillow: Harris County, TX Zip Codes</a>
+2. <a href="http://nlpprogress.com/english/sentiment_analysis.html">Machine Learning NLP Sentiment Analysis Benchmarks</a>
+
+3. <a href="https://pdfs.semanticscholar.org/d0a5/21c8cc0508f1003f3e1d1fbf49780d9062f7.pdf">Twitter Sentiment Analysis Benchmarks</a>
+
+4. <a href="http://twitter.com>NLP Sentiment Analysis Benchmarks">Twitter</a>
+
+5. <a href="https://towardsdatascience.com/how-to-scrape-tweets-from-twitter-59287e20f0f1">GOT3 Code Example</a>
+
+6. <a href="https://towardsdatascience.com/how-to-scrape-tweets-from-twitter-59287e20f0f1">GOT3 Code Example</a>
 
 ## 8.0 Contact Info
 Robert Becotte - email: robert.becotte@gmail.com , github: robertgerardb <br>
