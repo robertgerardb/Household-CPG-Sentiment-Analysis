@@ -52,19 +52,19 @@
 - Dill
 
 #### 3.2 Natural Language Processing (NLP) Preprocessing and Modeling
-Text Preprocessing
+* Text Preprocessing
 - TFIDF Vectorizer (Best Param)
 - Count Vectorizer
 - NLTK
-- Spacy
-NLP Sentiment Analysis Models
-scikit-learn
+- SpaCy
+* NLP Sentiment Analysis Models
+- scikit-learn
 - Support Vector Machine (Best Param)
 - Random Forest
 - Multinomial Naïve Bayes
-TensorFlow (Keras)
+* TensorFlow (Keras)
 - Recursive Neural Network
-vaderSentiment
+* vaderSentiment
 - Sentiment Analyser
 
 #### 3.3 Visuals
@@ -127,7 +127,7 @@ vaderSentiment
 
 5. <a href="https://towardsdatascience.com/how-to-scrape-tweets-from-twitter-59287e20f0f1">GOT3 Code Example</a>
 
-6. <a href="https://towardsdatascience.com/how-to-scrape-tweets-from-twitter-59287e20f0f1">GOT3 Code Example</a>
+6. <a href="https://towardsdatascience.com/machine-learning-for-text-classification-using-spacy-in-python-b276b4051a49">NLP and SpaCy Tips</a>
 
 ## 8.0 Contact Info
 Robert Becotte - email: robert.becotte@gmail.com , github: robertgerardb <br>
