@@ -1,5 +1,5 @@
 # Household-CPG-Sentiment-Analysis
-![](./visuals/00_slides/Slide1.png)
+![](./visuals/00_slides/Slide1.PNG)
 ---
 ## Table of Contents:
 [1.0 Directory Structure](#10-directory-structure)<br>
@@ -114,34 +114,14 @@ vaderSentiment
 ![Flask Home Page](./visuals/flask_results.png)
 
 ## 7.0 Next Steps and Recommendations
-* Why are the most negatively impacted zip codes adjacent to the most positively impacted zip codes? (Elevation, levies, state/fed resources)
-* How can we best feature engineer zoning laws and real estate regulations into a machine learning model? (Binary dummies, ordinal)
-* What kind of model might we want to use? (regressor/classifier/hybrid)
-* Scale this concept to other natural disasters (Earthquake, fire, tornado)
+* foo
 
 ## 8.0 Sources and Citations
 1. <a href="https://www.zillow.com/research/data/">Zillow Median Sale Price by Zip (CSV)</a>
 
 2. <a href="https://www.zillow.com/browse/homes/tx/harris-county/">Zillow: Harris County, TX Zip Codes</a>
 
-3. <a href="https://www.fema.gov/disaster/4468">FEMA Visual and link for finding official Hurricane Dorian report</a>
 
-4. <a href="https://www.fema.gov/media-library-data/1572651498411-9b9527200177132f395165f7888d7a67/FEMA4468DRFL.pdf">FEMA preliminary Dorian damage report for finding affected counties</a>
-
-5. <a href="https://www.getzips.com/county.htm">Converting counties to zipcodes (webscraping)</a>
-
-6. <a href="https://www.fema.gov/disasters?field_dv2_state_territory_tribal_value_selective=All&field_dv2_incident_type_tid=49124&field_dv2_declaration_type_value=All&field_dv2_incident_begin_value%5Bvalue%5D%5Bmonth%5D=&field_dv2_incident_begin_value%5Bvalue%5D%5Byear%5D=&field_dv2_incident_end_value%5Bvalue%5D%5Bmonth%5D=&field_dv2_incident_end_value%5Bvalue%5D%5Byear%5D=">Easily searchable FEMA database for finding storms:</a>
-
-7. <a href="https://www.nhc.noaa.gov/news/UpdatedCostliest.pdf">NOAA.gov Hurricane Data</a>
-
-8. <a href="https://www.livescience.com/40774-hurricane-sandy-s-impact-infographic.html">Hurricane Sandy Damage</a>
-
-9. <a href="https://www.ncdc.noaa.gov/billions/">Financial Impact of Hurricanes from NOAA.gov</a>
-
-10.  <a href="https://fred.stlouisfed.org/series/MSPUS?utm_source=series_page&utm_medium=related_content&utm_term=related_resources&utm_campaign=categories#0">Year over Year National Sale Prices from St. Louis Federal Reserve</a>
 
 ## 9.0 Contact Info
-
-Rose Dennis - email: rosedennis@umass.edu , github: RoseXDennis <br>
-Drew Dellarocco - email: drewdellarocco@gmail.com , github: drewdellarocco <br>
 Robert Becotte - email: robert.becotte@gmail.com , github: robertgerardb <br>
