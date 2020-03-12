@@ -35,10 +35,10 @@
 ![](./visuals/00_slides/Slide3.PNG)
 
 ### 2.2 Executive Summary
-![](./visuals/00_slides/Slide5.PNG)
+![](./visuals/00_slides/Slide6.PNG)
 
 ### 2.3 Objectives
-![](./visuals/00_slides/Slide4.PNG)
+![](./visuals/00_slides/Slide5.PNG)
 
 ### 2.4 KPIs
 ![](./visuals/00_slides/Slide7.PNG)
