@@ -35,10 +35,10 @@
 ![](./visuals/00_slides/Slide3.PNG)
 
 ### 2.2 Executive Summary
-![](./visuals/00_slides/Slide6.PNG)
+![](./visuals/00_slides/Slide5.PNG)
 
 ### 2.3 Objectives
-![](./visuals/00_slides/Slide6.PNG)
+![](./visuals/00_slides/Slide4.PNG)
 
 ### 2.4 KPIs
 ![](./visuals/00_slides/Slide7.PNG)
@@ -64,13 +64,13 @@
 - NLTK
 - SpaCy
 #### NLP Sentiment Analysis Models
-- scikit-learn
+1. scikit-learn
 - Support Vector Machine (Best Param)
 - Random Forest
 - Multinomial Naïve Bayes
-* TensorFlow (Keras)
+2. TensorFlow (Keras)
 - Recursive Neural Network
-* vaderSentiment
+3. vaderSentiment
 - Sentiment Analyser
 
 ### 3.3 Visuals
