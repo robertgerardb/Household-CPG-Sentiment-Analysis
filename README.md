@@ -85,7 +85,7 @@
 ## 4.0 Overview of Findings
 
 ### 4.1 Data Collection
-![](./visuals/00_slides/Slide8.PNG)
+![](./visuals/00_slides/Slide10.PNG)
 
 ### 4.2 Model Comparison and Performance
 ![](./visuals/00_slides/Slide13.PNG)
@@ -99,18 +99,18 @@
 ![](./visuals/00_slides/Slide20.PNG)
 
 ### 4.4 Engagement Time Series Analysis
+![](./visuals/00_slides/Slide21.PNG)
 ![](./visuals/00_slides/Slide22.PNG)
 ![](./visuals/00_slides/Slide23.PNG)
 ![](./visuals/00_slides/Slide24.PNG)
-![](./visuals/00_slides/Slide25.PNG)
 
 ### 4.5 Brand and Consumer Sentiment Analysis
-![](./visuals/00_slides/Slide27.PNG)
+![](./visuals/00_slides/Slide26.PNG)
+![](./visuals/00_slides/Slide28.PNG)
 ![](./visuals/00_slides/Slide29.PNG)
-![](./visuals/00_slides/Slide30.PNG)
 ---
 ## 5.0 Next Steps and Recommendations
-![](./visuals/00_slides/Slide32.PNG)
+![](./visuals/00_slides/Slide31.PNG)
 ---
 ## 6.0 Sources and Acknowledgements
 1. <a href="https://sproutsocial.com/insights/twitter-mentions/">Social Media Metrics</a>
