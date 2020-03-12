@@ -1,7 +1,5 @@
 # Household-CPG-Sentiment-Analysis
 
-![]('./visuals/00_slides/Slide1.png')
-=======
 ![](./visuals/00_slides/Slide1.PNG)
 
 ---
@@ -33,21 +31,21 @@
 ```    
 ## 2.0 Orientation
 
-#### 2.1 Hypothesis
+### 2.1 Hypothesis
 ![](./visuals/00_slides/Slide3.PNG)
 
-## 2.2 Executive Summary
+### 2.2 Executive Summary
 ![](./visuals/00_slides/Slide6.PNG)
 
-## 2.3 Objectives
+### 2.3 Objectives
 ![](./visuals/00_slides/Slide6.PNG)
 
-## 2.4 KPIs
+### 2.4 KPIs
 ![](./visuals/00_slides/Slide7.PNG)
 
-## 2.5 Brands Examined
+### 2.5 Brands Examined
 ![](./visuals/00_slides/Slide8.PNG)
-
+---
 ## 3.0 Software APIs Libraries Used
 
 #### 3.1 Data Engineering, Analysis, and Collection
@@ -59,13 +57,13 @@
 - Numpy
 - Dill
 
-#### 3.2 Natural Language Processing (NLP) Preprocessing and Modeling
-* Text Preprocessing
+### 3.2 Natural Language Processing (NLP) Preprocessing and Modeling
+#### Text Preprocessing
 - TFIDF Vectorizer (Best Param)
 - Count Vectorizer
 - NLTK
 - SpaCy
-* NLP Sentiment Analysis Models
+#### NLP Sentiment Analysis Models
 - scikit-learn
 - Support Vector Machine (Best Param)
 - Random Forest
@@ -75,7 +73,7 @@
 * vaderSentiment
 - Sentiment Analyser
 
-#### 3.3 Visuals
+### 3.3 Visuals
 - Chartify
 - Bokeh
 - Matplotlib: Pyplot
@@ -83,13 +81,13 @@
 - Missingno
 - Microsoft PowerPoint
 - Adobe Acrobat
-
+---
 ## 4.0 Overview of Findings
 
 ### 4.1 Data Collection
 ![](./visuals/00_slides/Slide8.PNG)
 
-#### 4.2 Model Camparison and Performance
+### 4.2 Model Comparison and Performance
 ![](./visuals/00_slides/Slide13.PNG)
 
 ### 4.3 Support Vector Machine Results
@@ -100,20 +98,20 @@
 ![](./visuals/00_slides/Slide19.PNG)
 ![](./visuals/00_slides/Slide20.PNG)
 
-## 4.4 Enagement Time Series Analysis
+### 4.4 Engagement Time Series Analysis
 ![](./visuals/00_slides/Slide22.PNG)
 ![](./visuals/00_slides/Slide23.PNG)
 ![](./visuals/00_slides/Slide24.PNG)
 ![](./visuals/00_slides/Slide25.PNG)
 
-## 4.5 Brand and Consumer Sentiment Analysis
+### 4.5 Brand and Consumer Sentiment Analysis
 ![](./visuals/00_slides/Slide27.PNG)
 ![](./visuals/00_slides/Slide29.PNG)
 ![](./visuals/00_slides/Slide30.PNG)
-
+---
 ## 5.0 Next Steps and Recommendations
 ![](./visuals/00_slides/Slide32.PNG)
-
+---
 ## 6.0 Sources and Acknowledgements
 1. <a href="https://sproutsocial.com/insights/twitter-mentions/">Social Media Metrics</a>
 
@@ -126,6 +124,6 @@
 5. <a href="https://towardsdatascience.com/how-to-scrape-tweets-from-twitter-59287e20f0f1">GOT3 Code Example</a>
 
 6. <a href="https://towardsdatascience.com/machine-learning-for-text-classification-using-spacy-in-python-b276b4051a49">NLP and SpaCy Tips</a>
-
+---
 ## 7.0 Contact Info
 Robert Becotte - email: robert.becotte@gmail.com , github: robertgerardb <br>
