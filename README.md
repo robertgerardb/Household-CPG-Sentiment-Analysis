@@ -26,21 +26,20 @@
 ```    
 ## 2.0 Orientation
 
-
 #### 2.1 Hypothesis
-There is high positive consumer sentiment towards using household goods that reduce waste and promote environmental sustainability
-
+![](./visuals/00_slides/Slide3.PNG)
 
 ## 2.2 Executive Summary
-
-
-
+![](./visuals/00_slides/Slide6.PNG)
 
 ## 2.3 Objectives
+![](./visuals/00_slides/Slide6.PNG)
 
+## 2.4 KPIs
+![](./visuals/00_slides/Slide7.PNG)
 
-## 2.4 Constraints
-foo
+## 2.5 Brands Examined
+![](./visuals/00_slides/Slide8.PNG)
 
 ## 3.0 Software APIs Libraries Used
 
@@ -88,40 +87,42 @@ vaderSentiment
 | **Hurricane Affected** | 1 if the zip code was impacted by Hurricane X according to FEMA, 0 otherwise. |
 | **% Change After Hurricane** | Percentage difference in median zip sale price comparing the month preceding the storm to the month following the storm.|
 
-## 5.0 High Level Overview of Findings
-#### Hot colors indicate largest drops in median sale price after the hurricane
-#### Cold colors indicate largest increases in median sale price after the hurricane
+## 5.0 Overview of Findings
 
-### 5.1 Hurricane Dorian focused on Florida
-![Dorian Affected Zip Codes](./visuals/dorian_tableau.png)
+### 5.1 Data Collection
+![](./visuals/00_slides/Slide8.PNG)
 
-#### Example Dorian impact
-![Example Dorian impact](./visuals/dorian_matplotlib.png)
+#### 5.2 Model Camparison and Performance
+![](./visuals/00_slides/Slide13.PNG)
 
-### 5.2 Hurricane Sandy focused on North East U.S.
-![Sandy Affected Zip Codes](./visuals/sandy_tableau.png)
+### 5.3 Support Vector Machine Results
+![](./visuals/00_slides/Slide14.PNG)
+![](./visuals/00_slides/Slide15.PNG)
+![](./visuals/00_slides/Slide16.PNG)
+![](./visuals/00_slides/Slide17.PNG)
+![](./visuals/00_slides/Slide19.PNG)
+![](./visuals/00_slides/Slide20.PNG)
 
-### 5.3 Hurricane Harvey focused on greater Houston, TX
-![Harcey Affected Zip Codes](./visuals/harvey_tableau.png)
+## 5.4 Enagement Time Series Analysis
+![](./visuals/00_slides/Slide22.PNG)
+![](./visuals/00_slides/Slide23.PNG)
+![](./visuals/00_slides/Slide24.PNG)
+![](./visuals/00_slides/Slide25.PNG)
+![](./visuals/00_slides/Slide26.PNG)
 
-## 6.0 Minimum Viable Product for Web Application
+## 5.5 Brand and Consumer Sentiment Analysis
+![](./visuals/00_slides/Slide27.PNG)
+![](./visuals/00_slides/Slide28.PNG)
+![](./visuals/00_slides/Slide29.PNG)
+![](./visuals/00_slides/Slide30.PNG)
 
-#### Enter a zip code to see the summary statistics<br>
-### 6.1 Home Page of Flask App <br>
-![Flask Home Page](./visuals/flask_home.png)
+## 6.0 Next Steps and Recommendations
+![](./visuals/00_slides/Slide31.PNG)
 
-### 6.2 Results Page of Flask App for Zip Code 77071 Houston (Median Sale Price dropped ~24.4% directly after Harvey)<br>
-![Flask Home Page](./visuals/flask_results.png)
-
-## 7.0 Next Steps and Recommendations
-* foo
-
-## 8.0 Sources and Citations
+## 7.0 Sources and Acknowldgements
 1. <a href="https://www.zillow.com/research/data/">Zillow Median Sale Price by Zip (CSV)</a>
 
 2. <a href="https://www.zillow.com/browse/homes/tx/harris-county/">Zillow: Harris County, TX Zip Codes</a>
 
-
-
-## 9.0 Contact Info
+## 8.0 Contact Info
 Robert Becotte - email: robert.becotte@gmail.com , github: robertgerardb <br>
