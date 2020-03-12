@@ -1,5 +1,5 @@
 # Household-CPG-Sentiment-Analysis
-![]('./visuals/00_slides/Slide 1.png')
+![](./visuals/00_slides/Slide1.png)
 ---
 ## Table of Contents:
 [1.0 Directory Structure](#10-directory-structure)<br>
