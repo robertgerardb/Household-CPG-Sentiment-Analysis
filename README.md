@@ -18,7 +18,7 @@
 ├── Household-CPG-Sentiment-Analysis/
     ├── visuals/
           ├── 00_slides/
-                  └── Slide1.PNG - Slides31.PNG    
+                  └── Slide1.PNG - Slide31.PNG    
           ├── 01_pos_month_pct.png
           ├── 02_post_month_count.png
           ├── 03_pos_sent_artifact.png
