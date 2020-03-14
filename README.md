@@ -15,17 +15,29 @@
 ---
 ## 1.0 Directory Structure
 ```
-├── Household-CPG-Sentiment-Analysis
-    ├── visuals
+├── Household-CPG-Sentiment-Analysis/
+    ├── visuals/
+          ├── 00_slides/
+                  └── Slide1.PNG - Slides31.PNG    
+          ├── 01_pos_month_pct.png
+          ├── 02_post_month_count.png
+          ├── 03_pos_sent_artifact.png
+          ├── 04_ment_2year.png
+          ├── 05_ment_month.png
+          ├── 06_month_mentions.png
+          ├── 07_svm_pred_histogram.png
+          ├── 08_day_engagement.png
+          └── twitter_bronner_3k_retweet.png
     ├── .gitignore
-    ├── 09_train_data_amazon_import_EDA.ipynb
-    ├── 13_GOT_10K_scrapes.ipynb
-    ├── 16_vader_experiment__kaggle_twitter_reddit_01.ipynb
-    ├── 18_tokenize_vectorize_twitter_01.ipynb
-    ├── 19_twitter_kaggle_model_train_test.ipynb
-    ├── 21_modeling_unseen_twitterdata_01.ipynb
-    ├── 22_confusion_matrix_SVM_training_data.ipynb
-    ├── 23_sentiment_unseen.ipynb
+    ├── jupyter_nb
+          ├── 09_train_data_amazon_import_EDA.ipynb
+          ├── 13_GOT_10K_scrapes.ipynb
+          ├── 16_vader_experiment__kaggle_twitter_reddit_01.ipynb
+          ├── 18_tokenize_vectorize_twitter_01.ipynb
+          ├── 19_twitter_kaggle_model_train_test.ipynb
+          ├── 21_modeling_unseen_twitterdata_01.ipynb
+          ├── 22_confusion_matrix_SVM_training_data.ipynb
+          └── 23_sentiment_unseen.ipynb
     ├── README.md
     └── eddi_findings_dsi.pdf
 ```    
@@ -95,7 +107,6 @@
 ![](./visuals/00_slides/Slide15.PNG)
 ![](./visuals/00_slides/Slide16.PNG)
 ![](./visuals/00_slides/Slide17.PNG)
-![](./visuals/00_slides/Slide19.PNG)
 ![](./visuals/00_slides/Slide20.PNG)
 
 ### 4.4 Engagement Time Series Analysis
