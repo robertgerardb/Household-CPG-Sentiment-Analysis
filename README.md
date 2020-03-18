@@ -7,7 +7,7 @@
 [1.0 Directory Structure](#10-directory-structure)<br>
 [2.0 Orientation](#20-orientation)<br>
 [3.0 Software APIs Libraries Used](#30-software-apis-libraries-used)<br>
-[4.0 Overview of Findings](#40-high-level-overview-of-findings)<br>
+[4.0 Overview of Findings](#40-overview-of-findings)<br>
 [5.0 Next Steps and Recommendations](#50-next-steps-and-recommendations)<br>
 [6.0 Sources and Acknowledgements](#60-sources-and-acknowledgements)<br>
 [7.0 Contact Info](#70-contact-info)<br>
