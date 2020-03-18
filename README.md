@@ -16,20 +16,7 @@
 ## 1.0 Directory Structure
 ```
 ├── Household-CPG-Sentiment-Analysis/
-    ├── visuals/
-          ├── 00_slides/
-                  └── Slide1.PNG - Slide31.PNG    
-          ├── 01_pos_month_pct.png
-          ├── 02_post_month_count.png
-          ├── 03_pos_sent_artifact.png
-          ├── 04_ment_2year.png
-          ├── 05_ment_month.png
-          ├── 06_month_mentions.png
-          ├── 07_svm_pred_histogram.png
-          ├── 08_day_engagement.png
-          └── twitter_bronner_3k_retweet.png
-    ├── .gitignore
-    ├── jupyter_nb
+    ├── jupyter_nb/
           ├── 09_train_data_amazon_import_EDA.ipynb
           ├── 13_GOT_10K_scrapes.ipynb
           ├── 16_vader_experiment__kaggle_twitter_reddit_01.ipynb
@@ -38,25 +25,21 @@
           ├── 21_modeling_unseen_twitterdata_01.ipynb
           ├── 22_confusion_matrix_SVM_training_data.ipynb
           └── 23_sentiment_unseen.ipynb
+    ├── visuals/
+    ├── .gitignore
     ├── README.md
-    └── eddi_findings_dsi.pdf
+    └── capstone_findings_v3.pdf
 ```    
 ## 2.0 Orientation
 
 ### 2.1 Hypothesis
-![](./visuals/00_slides/Slide3.PNG)
+![](./visuals/00_slides/Slide4.PNG)
 
 ### 2.2 Executive Summary
-![](./visuals/00_slides/Slide6.PNG)
+![](./visuals/00_slides/Slide2.PNG)
 
-### 2.3 Objectives
-![](./visuals/00_slides/Slide5.PNG)
-
-### 2.4 KPIs
+### 2.3 Brands Examined
 ![](./visuals/00_slides/Slide7.PNG)
-
-### 2.5 Brands Examined
-![](./visuals/00_slides/Slide8.PNG)
 ---
 ## 3.0 Software APIs Libraries Used
 
@@ -97,31 +80,29 @@
 ## 4.0 Overview of Findings
 
 ### 4.1 Data Collection
-![](./visuals/00_slides/Slide10.PNG)
+![](./visuals/00_slides/Slide9.PNG)
 
 ### 4.2 Model Comparison and Performance
 ![](./visuals/00_slides/Slide13.PNG)
 
 ### 4.3 Support Vector Machine Results
 ![](./visuals/00_slides/Slide14.PNG)
-![](./visuals/00_slides/Slide15.PNG)
 ![](./visuals/00_slides/Slide16.PNG)
 ![](./visuals/00_slides/Slide17.PNG)
-![](./visuals/00_slides/Slide20.PNG)
 
 ### 4.4 Engagement Time Series Analysis
 ![](./visuals/00_slides/Slide21.PNG)
-![](./visuals/00_slides/Slide22.PNG)
 ![](./visuals/00_slides/Slide23.PNG)
 ![](./visuals/00_slides/Slide24.PNG)
 
 ### 4.5 Brand and Consumer Sentiment Analysis
+![](./visuals/00_slides/Slide20.PNG)
+![](./visuals/00_slides/Slide25.PNG)
 ![](./visuals/00_slides/Slide26.PNG)
-![](./visuals/00_slides/Slide28.PNG)
-![](./visuals/00_slides/Slide29.PNG)
+![](./visuals/00_slides/Slide27.PNG)
 ---
 ## 5.0 Next Steps and Recommendations
-![](./visuals/00_slides/Slide31.PNG)
+![](./visuals/00_slides/Slide29.PNG)
 ---
 ## 6.0 Sources and Acknowledgements
 1. <a href="https://sproutsocial.com/insights/twitter-mentions/">Social Media Metrics</a>
