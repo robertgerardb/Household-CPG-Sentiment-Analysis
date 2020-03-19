@@ -43,7 +43,7 @@
 ---
 ## 3.0 Software APIs Libraries Used
 
-#### 3.1 Data Engineering, Analysis, and Collection
+### 3.1 Data Engineering, Analysis, and Collection
 - Python3
 - Jupyter
 - Atom
