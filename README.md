@@ -28,18 +28,18 @@
     ├── visuals/
     ├── .gitignore
     ├── README.md
-    └── capstone_findings_v3.pdf
+    └── eddi_findings_v6.pdf
 ```    
 ## 2.0 Orientation
 
 ### 2.1 Hypothesis
-![](./visuals/00_slides/Slide4.PNG)
+![](./visuals/00_slides/Slide5.PNG)
 
 ### 2.2 Executive Summary
 ![](./visuals/00_slides/Slide2.PNG)
 
 ### 2.3 Brands Examined
-![](./visuals/00_slides/Slide7.PNG)
+![](./visuals/00_slides/Slide8.PNG)
 ---
 ## 3.0 Software APIs Libraries Used
 
@@ -80,29 +80,29 @@
 ## 4.0 Overview of Findings
 
 ### 4.1 Data Collection
-![](./visuals/00_slides/Slide9.PNG)
+![](./visuals/00_slides/Slide10.PNG)
 
 ### 4.2 Model Comparison and Performance
-![](./visuals/00_slides/Slide13.PNG)
+![](./visuals/00_slides/Slide15.PNG)
 
 ### 4.3 Support Vector Machine Results
-![](./visuals/00_slides/Slide14.PNG)
 ![](./visuals/00_slides/Slide16.PNG)
-![](./visuals/00_slides/Slide17.PNG)
+![](./visuals/00_slides/Slide18.PNG)
+![](./visuals/00_slides/Slide19.PNG)
 
 ### 4.4 Engagement Time Series Analysis
-![](./visuals/00_slides/Slide21.PNG)
 ![](./visuals/00_slides/Slide23.PNG)
-![](./visuals/00_slides/Slide24.PNG)
-
-### 4.5 Brand and Consumer Sentiment Analysis
-![](./visuals/00_slides/Slide20.PNG)
 ![](./visuals/00_slides/Slide25.PNG)
 ![](./visuals/00_slides/Slide26.PNG)
+
+### 4.5 Brand and Consumer Sentiment Analysis
+![](./visuals/00_slides/Slide22.PNG)
 ![](./visuals/00_slides/Slide27.PNG)
+![](./visuals/00_slides/Slide28.PNG)
+![](./visuals/00_slides/Slide29.PNG)
 ---
 ## 5.0 Next Steps and Recommendations
-![](./visuals/00_slides/Slide29.PNG)
+![](./visuals/00_slides/Slide30.PNG)
 ---
 ## 6.0 Sources and Acknowledgements
 1. <a href="https://sproutsocial.com/insights/twitter-mentions/">Social Media Metrics</a>
