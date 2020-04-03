@@ -1,5 +1,5 @@
 # Household-CPG-Sentiment-Analysis
-### This is a live repo. Best classifier to date is the Multinomial Naïve Bayes Classifier. Complete findings in the pdf, highlights below.
+### This is a live repo. Best classifier to date is the Multinomial Naïve Bayes model. Complete findings in the pdf, highlights below.
 
 ![](./visuals/00_slides/Slide1.PNG)
 
