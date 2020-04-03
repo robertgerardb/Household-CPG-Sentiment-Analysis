@@ -62,7 +62,7 @@
 - SpaCy
 #### NLP Sentiment Analysis Models
 1. scikit-learn
-- Support Vector Machine (Best Param)
+- Support Vector Machine
 - Random Forest
 - Multinomial Naïve Bayes
 2. TensorFlow (Keras)
