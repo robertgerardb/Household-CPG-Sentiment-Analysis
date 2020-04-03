@@ -17,14 +17,15 @@
 ```
 ├── Household-CPG-Sentiment-Analysis/
     ├── jupyter_nb/
-          ├── 09_train_data_amazon_import_EDA.ipynb
-          ├── 13_GOT_10K_scrapes.ipynb
-          ├── 16_vader_experiment__kaggle_twitter_reddit_01.ipynb
-          ├── 18_tokenize_vectorize_twitter_01.ipynb
-          ├── 19_twitter_kaggle_model_train_test.ipynb
-          ├── 21_modeling_unseen_twitterdata_01.ipynb
-          ├── 22_confusion_matrix_SVM_training_data.ipynb
-          └── 23_sentiment_unseen.ipynb
+          ├── svm_nb/
+            ├── 16_vader_experiment__kaggle_twitter_reddit_01.ipynb
+            ├── 19_twitter_kaggle_model_train_test.ipynb
+            ├── 21_modeling_unseen_twitterdata_01.ipynb
+            ├── 22_confusion_matrix_SVM_training_data.ipynb
+            └── 23_sentiment_unseen.ipynb
+          ├── mnb_nb/
+            ├── 04_eddi_mnb.ipynb
+            └── 05_applying_mnb_twitter_scraped.ipynb
     ├── visuals/
     ├── .gitignore
     ├── README.md
