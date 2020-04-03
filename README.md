@@ -103,7 +103,7 @@
 ![](./visuals/00_slides/Slide29.PNG)
 ---
 ## 5.0 Next Steps and Recommendations
-![](./visuals/00_slides/Slide30.PNG)
+![](./visuals/00_slides/Slide31.PNG)
 ---
 ## 6.0 Sources and Acknowledgements
 1. <a href="https://sproutsocial.com/insights/twitter-mentions/">Social Media Metrics</a>
