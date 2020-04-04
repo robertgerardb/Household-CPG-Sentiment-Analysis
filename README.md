@@ -118,6 +118,10 @@
 5. <a href="https://towardsdatascience.com/how-to-scrape-tweets-from-twitter-59287e20f0f1">GOT3 Code Example</a>
 
 6. <a href="https://towardsdatascience.com/machine-learning-for-text-classification-using-spacy-in-python-b276b4051a49">NLP and SpaCy Tips</a>
+
+6. <a href="https://registry.opendata.aws/">Amazon Training Dataset</a>
+
+6. <a href="https://www.kaggle.com/c/twitter-sentiment-analysis2/data">Kaggle Training Dataset</a>
 ---
 ## 7.0 Contact Info
 Robert Becotte - email: robert.becotte@gmail.com , github: robertgerardb <br>
