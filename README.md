@@ -1,7 +1,11 @@
 # Household-CPG-Sentiment-Analysis
 ### This is a live repo. Best classifier to date is the Multinomial Naïve Bayes model. Complete findings in the pdf, highlights below.
 
-### Last Update: 4/4/20
+### Last Update: 4/16/20
+#### Latest change is exploring other brands to gain more confidence in sentiment of sector space
+
+#### There appears to be a large drop in consumer household CPG sentiment since the pandemic. Teaser (incomplete) visuals directly below.
+
 
 ![](./visuals/00_slides/Slide1.PNG)
 
