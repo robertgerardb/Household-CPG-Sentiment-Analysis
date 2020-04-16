@@ -6,9 +6,9 @@
 
 #### There appears to be a large drop in consumer household CPG sentiment since the pandemic. Teaser (incomplete) visuals directly below, before title slide.
 
-![](./visuals/30_sixBrand_timeseries_duringCovid_conservative.PNG)
+![](./visuals/30_sixBrand_timeseries_duringCovid_conservative.png)
 
-![](./visuals/29_sixBrand_timeseries_duringCovid_liberal.PNG)
+![](./visuals/29_sixBrand_timeseries_duringCovid_liberal.png)
 
 ---
 ![](./visuals/00_slides/Slide1.PNG)
