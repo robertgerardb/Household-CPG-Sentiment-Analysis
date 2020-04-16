@@ -4,7 +4,7 @@
 ### Last Update: 4/16/20
 #### Latest change is exploring other brands to gain more confidence in sentiment of sector space
 
-#### There appears to be a large drop in consumer household CPG sentiment since the pandemic. Teaser (incomplete) visuals directly below, before title slide.
+#### There appears to be a dip in consumer household CPG sentiment since the pandemic. Teaser (incomplete) visuals directly below, before title slide
 
 ![](./visuals/30_sixBrand_timeseries_duringCovid_conservative.png)
 
