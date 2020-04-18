@@ -42,7 +42,8 @@
     ├── visuals/
     ├── .gitignore
     ├── README.md
-    └── eddi_findings_v6.pdf
+    ├── findings_v6.pdf
+    └── truncated_findings_09.pdf
 ```    
 ## 2.0 Orientation
 
