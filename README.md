@@ -2,11 +2,11 @@
 ### This is a live repo. Best classifier to date is the Multinomial Naïve Bayes model. Complete findings in the pdf, highlights below.
 
 ### Last Update: 4/18/20
-#### Latest update includes a truncated pdf slide deck comparing sentiment between user and company generated content.
+#### Latest update includes a truncated pdf slide deck comparing sentiment between user and company generated content
 
 #### These changes exploring other brands to gain more confidence in sentiment of sector space
 
-#### There appears to be a dip in consumer household CPG sentiment since the pandemic. Teaser (incomplete) visuals directly below, before title slide
+#### There appears to be a dip in user generated consumer household CPG sentiment since the pandemic. Teaser (incomplete) visuals directly below, before title slide
 
 ![](./visuals/34_sixBrand_timeseries_ugc.png)
 
