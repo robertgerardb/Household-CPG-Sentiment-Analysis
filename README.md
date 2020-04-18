@@ -54,7 +54,7 @@
 ![](./visuals/00_slides/Slide2.PNG)
 
 ### 2.3 Brands Examined
-![](./visuals/00_slides/Slide8.PNG)
+![](./visuals/35_companies_examined.png)
 ---
 ## 3.0 Software APIs Libraries Used
 
