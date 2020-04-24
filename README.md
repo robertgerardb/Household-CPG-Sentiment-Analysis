@@ -1,7 +1,7 @@
 # Household-CPG-Sentiment-Analysis
-### This is a live repo. Best classifier to date is the Multinomial Naïve Bayes model. Complete findings in the pdf, highlights below.
+### This is an active repo. Best classifier to date is the Multinomial Naïve Bayes model. Complete findings of iteration 1 in the pdf, highlights below.
 
-### Last Update: 4/18/20
+### Last Update: 4/24/20
 #### Latest update includes a truncated pdf slide deck comparing sentiment between user and company generated content
 
 #### These changes exploring other brands to gain more confidence in sentiment of sector space
