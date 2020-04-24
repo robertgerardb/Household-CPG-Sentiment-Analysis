@@ -8,10 +8,16 @@
 
 #### There appears to be a dip in user generated consumer household CPG sentiment since the pandemic. Teaser (incomplete) visuals directly below, before Table of Contents
 
+
 ![](./visuals/34_sixBrand_timeseries_ugc.png)
 
 ![](./visuals/33_sixBrand_month_ugc.png)
 
+#### Company generated content brings up sentiment scores as expected.
+
+![](./visuals/line_chart9brand_38.png)
+
+![](./visuals/line_chart9brand_ugc_35.png)
 ---
 
 
