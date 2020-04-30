@@ -31,7 +31,7 @@
 ## 2.0 Orientation
 
 ### 2.1 Hypothesis
-![](./visuals/slides/Slide5.PNG)
+![](./visuals/slides/Slide5.png)
 
 ### 2.2 Executive Summary
 ![](./visuals/slides/Slide3.PNG)
