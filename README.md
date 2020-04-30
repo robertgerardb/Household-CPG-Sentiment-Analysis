@@ -1,4 +1,4 @@
-![](./visuals/slides/Slide1.png)
+![](./visuals/slides/Slide1.PNG)
 
 
 ---
