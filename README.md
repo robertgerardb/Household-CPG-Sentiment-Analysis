@@ -34,10 +34,10 @@
 ![](./visuals/slides/Slide5.png)
 
 ### 2.2 Executive Summary
-![](./visuals/slides/Slide3.PNG)
+![](./visuals/slides/Slide3.png)
 
 ### 2.3 Brands Examined
-![](./visuals/slides/Slide2.PNG)
+![](./visuals/slides/Slide2.png)
 ---
 ## 3.0 Software APIs Libraries Used
 
@@ -78,25 +78,25 @@
 ## 4.0 Overview of Findings
 
 ### 4.1 Data Collection
-![](./visuals/slides/Slide9.PNG)
+![](./visuals/slides/Slide9.png)
 
 ### 4.2 Model Comparison and Performance
-![](./visuals/slides/Slide14.PNG)
+![](./visuals/slides/Slide14.png)
 
 ### 4.3 Multinomial Naïve Bayes Classifier Results
-![](./visuals/slides/Slide15.PNG)
-![](./visuals/slides/Slide16.PNG)
-![](./visuals/slides/Slide17.PNG)
+![](./visuals/slides/Slide15.png)
+![](./visuals/slides/Slide16.png)
+![](./visuals/slides/Slide17.png)
 
 ### 4.4 Engagement Time Series Analysis
-![](./visuals/slides/Slide25.PNG)
+![](./visuals/slides/Slide25.png)
 
 ### 4.5 Brand and Consumer Sentiment Analysis
-![](./visuals/slides/Slide27.PNG)
+![](./visuals/slides/Slide27.png)
 
 ---
 ## 5.0 Next Steps and Recommendations
-![](./visuals/slides/Slide32.PNG)
+![](./visuals/slides/Slide32.png)
 ---
 ## 6.0 Sources and Acknowledgements
 1. <a href="https://sproutsocial.com/insights/twitter-mentions/">Social Media Metrics</a>
