@@ -16,7 +16,7 @@
           ├── mnb_nb/
             ├── 04_eddi_mnb.ipynb
             ├── 05_applying_mnb_twitter_scraped.ipynb
-            └── 09_visuals_tenBrand
+            └── 07_visuals_tenBrand
           ├── svm_nb/
             ├── 16_vader_experiment__kaggle_twitter_reddit_01.ipynb
             ├── 19_twitter_kaggle_model_train_test.ipynb
@@ -26,7 +26,8 @@
     ├── visuals/
     ├── .gitignore
     ├── README.md
-    └── cpg_sentimentAnalysis_mh.pdf
+    ├── cpg_sentimentAnalysis_mh.pdf
+    └── truncated_findings_10.pdf
 ```    
 ## 2.0 Orientation
 
@@ -92,6 +93,7 @@
 ![](./visuals/slides/Slide25.PNG)
 
 ### 4.5 Brand and Consumer Sentiment Analysis
+![](./visuals/slides/Slide26.PNG)
 ![](./visuals/slides/Slide27.PNG)
 
 ---
